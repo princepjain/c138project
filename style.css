@@ -1,0 +1,16 @@
+.heading{
+    width: 100%;
+    text-align: left;
+     margin-bottom: 5px;
+}
+
+.heading-button{
+    float: right;
+}
+
+.heading-h1{
+    display: inline;
+    font-size: 22px;
+}
+
+
